@@ -1,7 +1,5 @@
 PROPRIETARY SOFTWARE LICENSE
-ALL RIGHTS RESERVED
-
-Copyright © 2026 MALPHITE10/ LoopLane
+Copyright © 2026 MALPHITE10/LoopLane
 All rights reserved.
 
 1. OWNERSHIP
@@ -82,4 +80,4 @@ redistribution, and other permissions require written
 authorization from the applicable rights holder.
 
 Repository:
-https://github.com/Malphite10/LoopLane
+https://github.com/Malphite10/LoopLane ...
