@@ -82,4 +82,4 @@ redistribution, and other permissions require written
 authorization from the applicable rights holder.
 
 Repository:
-https://github.com/Malphite10/Git-Mal
+https://github.com/Malphite10/LoopLane
